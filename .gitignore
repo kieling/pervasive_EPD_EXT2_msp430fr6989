@@ -1,0 +1,11 @@
+# Dont ignore
+!.settings/
+
+# Ignore
+*.launches/
+*.config/
+*eTC_G2_Size_Aurora_Mb/
+*PDI APPs/
+*Debug/
+*Release/
+.xdchelp
